@@ -57,15 +57,15 @@
         <BottomLeftResizeButton>false</BottomLeftResizeButton>
         <ResizeButtonOffsetX>0</ResizeButtonOffsetX>
         <ResizeButtonOffsetY>0</ResizeButtonOffsetY>
-        <TitleWidth>390</TitleWidth>
+        <TitleWidth>440</TitleWidth>
         <TitleHeight>2</TitleHeight>
-        <Width>390</Width>
+        <Width>470</Width>
         <Height>211</Height>
-        <ResizeableWidth>6</ResizeableWidth>
+        <ResizeableWidth>0</ResizeableWidth>
         <ResizeableHeight>2</ResizeableHeight>
         <ResizeableTwoWayWidth>0</ResizeableTwoWayWidth>
         <ResizeableTwoWayHeight>0</ResizeableTwoWayHeight>
-        <MinWidth>0</MinWidth>
+        <MinWidth>470</MinWidth>
         <MinHeight>0</MinHeight>
         <ContextTemplateName></ContextTemplateName>
 
@@ -79,7 +79,7 @@
                 <GrowWidth>true</GrowWidth>
             </Alignment>
             <TemplateName>_witt_bg_100</TemplateName>
-            <Width>390</Width>
+            <Width>476</Width>
             <Height>19</Height>
         </FullResizeImageDef>
 
@@ -99,7 +99,7 @@
                 <A>255</A>
             </Color>
             <FontName>_whatisthisfont2</FontName>
-            <Width>390</Width>
+            <Width>470</Width>
             <Height>15</Height>
             <MaxCharacters>128</MaxCharacters>
             <Data>QUEST JOURNAL</Data>
@@ -119,11 +119,11 @@
             </Alignment>
             <TemplateName>_witt_listbox_noscroll</TemplateName>
             <AdapterName>new_quest_journal_entries</AdapterName>
-            <Width>390</Width>
+            <Width>470</Width>
             <Height>176</Height>
-            <Column1Width>350</Column1Width>
+            <Column1Width>470</Column1Width>
             <Column1Offset>10</Column1Offset>
-            <Column2Width>350</Column2Width>
+            <Column2Width>470</Column2Width>
             <Column2Offset>125</Column2Offset>
         </TreeControlDef>
 
@@ -153,7 +153,7 @@
                 <GrowWidth>true</GrowWidth>
             </Alignment>
             <TemplateName>_witt_hr_normal</TemplateName>
-            <Width>326</Width>
+            <Width>406</Width>
         </HorizontalResizeImageDef>
 
 
@@ -173,9 +173,9 @@
                 <A>192</A>
             </Color>
             <FontName>_whatisthisfont3</FontName>
-            <Width>318</Width>
+            <Width>348</Width>
             <Height>18</Height>
-            <MaxCharacters>256</MaxCharacters>
+            <MaxCharacters>276</MaxCharacters>
             <Data>No Quest Selected</Data>
         </LabelDef>
 
